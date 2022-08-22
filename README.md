@@ -119,11 +119,14 @@ $ password guest
 ```bash
 # npm packages
 - passport
-- passport-local
 - @nestjs/passport
+- passport-local
 - @types/passport-local
 - bcrypt
 - @types/bcrypt
+- @nestjs/jwt
+- passport-jwt
+- @types/passport-jwt
 ```
 
 ## Support
