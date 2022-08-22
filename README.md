@@ -122,6 +122,8 @@ $ password guest
 - passport-local
 - @nestjs/passport
 - @types/passport-local
+- bcrypt
+- @types/bcrypt
 ```
 
 ## Support
